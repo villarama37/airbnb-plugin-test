@@ -9,5 +9,9 @@ const y = [
   'this',
   'is',
   'a',
-  'long'
+  'long',
 ];
+
+/* eslint-disable no-console */
+console.log({ x, y });
+/* eslint-enable no-console */
