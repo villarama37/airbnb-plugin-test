@@ -19,6 +19,13 @@ module.exports = {
            },
 ```
 
+## Run lint on commit
+- We want to run lint before we commit but we don't want to lint the whole repo.
+- We want to lint only the changed files. So we use lint-staged
+```
+
+```
+
 ## TODO:  
 - Run eslint before committing code
 - Add prettier
