@@ -12,6 +12,4 @@ const y = [
   'long',
 ];
 
-/* eslint-disable no-console */
 console.log({ x, y });
-/* eslint-enable no-console */
